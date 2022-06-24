@@ -28,7 +28,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 
 ### Let's connect!
 <p>
-    <a href="https://indolax.carrd.co" target="blank"><img src="https://img.shields.io/badge/Website-https://indolax.carrd.co-green?" /></a>l
+    <a href="https://indolaxy.carrd.co" target="blank"><img src="https://img.shields.io/badge/Website-https://indolaxy.carrd.co-green?" /></a>l
 </p>
 
 <!--

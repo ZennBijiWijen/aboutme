@@ -7,7 +7,6 @@ Currently working with Robotic Process Automation, but I love learn new thing in
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/bagusfe" />
 </p>
 
 ### Stats:
@@ -29,11 +28,11 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 
 ### Let's connect!
 <p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://indolax.carrd.co-green?" /></a>l
+    <a href="https://indolax.carrd.co" target="blank"><img src="https://img.shields.io/badge/Website-https://indolax.carrd.co-green?" /></a>l
 </p>
 
 <!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZennBijiWijen/aboutme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
